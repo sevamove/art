@@ -14,7 +14,7 @@ import {
 import {ArtAirConstants} from "./constants/ArtAirConstants.sol";
 
 /// @title ArtAir
-/// @author Sevasoft
+/// @author sevamove
 /// @notice This is a lite and gas-efficient NFT smart contract designed to
 ///         create and manage non-fungible tokens (NFTs).
 /// @dev The contract optimizes gas consumption and reduces complexity while
