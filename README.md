@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-<img src="https://book.getfoundry.sh/images/foundry-banner.png" alt="Foundry banner">
+<img src="https://getfoundry.sh/og-image.png" alt="Foundry banner">
 </a>
 </p>
 <br/>
